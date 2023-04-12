@@ -5,6 +5,7 @@
 #include "../log.h"
 #include "loader.h"
 #include <cstdlib>
+#include <cstdio>
 #ifdef __APPLE__
 #include <stdlib.h>
 #else

@@ -5,6 +5,7 @@
 #include "types.h"
 #include <cinttypes>
 #include <mutex>
+#include <stdarg.h>
 
 enum LOGLEVEL
 {
